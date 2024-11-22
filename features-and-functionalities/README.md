@@ -11,3 +11,4 @@ Objective: Identify and document the key features and functionalities of the Air
 * Export your design as a PNG file and store it in a directory called features-and-functionalities/ within your GitHub repository alx-airbnb-project-documentation.
 
 * Commit and push the changes to your GitHub repository.
+![features-and-blueprints](https://github.com/user-attachments/assets/551bfbce-ebd8-4330-81a1-97ea61744919)
