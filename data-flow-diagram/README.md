@@ -1,3 +1,3 @@
 #  Design a Data Flow Diagram for Your Features and Functionalities
 
-![Project Image](data_flow_diagram.drawio.png)
+![Project Image](data-flow.png)
